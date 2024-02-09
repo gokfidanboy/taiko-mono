@@ -24,7 +24,7 @@
 
 Documentation can be found on the website at [taiko.xyz](https://taiko.xyz). There is also a README in each package, as well as comments in the source code.
 
-## Project structure
+## Project structure detail
 
 <pre>
 taiko-mono/
